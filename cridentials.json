@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nomadic-device-331201",
+  "private_key_id": "b6271b353282c68538412d04eb3d5363e1ee7fc3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbmEr/wigr278C\nOJPtO+HeyC30FItlVUDGke+eLRDlQoos4XupsqHaPzsh25wQivIGhtH0GB+5yT21\nLnwnAMgNiq7tJY3cOoAGVZu15AysMJSYgi/f0iEkbav9hHf+JSnzyYW652R/DVfM\nP+Ih13sJYxkGqB+DuGCoQKFmIanlAE85TR6JIkgh3w+8IRCmFX+SD5Kwi9WVg/BW\n8KF7TV4f+85OtQ9XRNrhweT5YdOS9eMU7P+NmvOzLnxVRruVxQZkMvUXH4Fu3gCQ\naDfYOD2BXFl0QC0W3hUHkNAkl7TKcWbxA4XtQuSDvf8E1o6BjBpaYhbQ020lCQrO\nFiC8Z07/AgMBAAECggEAUzn0jtuAyyKVUZus4PhVolBfLkdND6JQkxHDbcEpyqI9\n6UWqT0YvFp7pY+suSozGrteRIkC0YX8WfqE4F7YxnARISQP3MJURaZUvly/v56Df\n6K9KwrsKqZpRWZvHuJBQRp/FqfFCAu9FK9m4dFgNPyEKXp4Al7UdGReptCIlGG+i\nTmzvsV0rbtumwTWWGS9fQnPM3cRLe3tK36zNStHL/tefAolMmCmScb/7m/ujFNCH\n4V0XFZDNFLWXq0IsBA4Gb56MvR3oOuKv1u+OWKnNEIZx28sphr1rhkvGDFvCVBda\nL6EbcK/azscukv7sBHbSlOtWH099x+Sbs6Kqg0QrdQKBgQDzSbExI8X5yN7Wd34a\nTepj0LehgHrQS6KXsMvcVpbNyM0Ei4Uz2rzh1Etz9ZpRyMg7ikE04RCIlR80sbFk\nANUxIIZaABN0GPseZQarGjq1l3zi/JLeHdc1AYasOgYXuJSBMD/s5FjIZkGlRUSR\n+xeEbdNw+t3YM8lgFwhNVgTFpQKBgQDnEazMSG/DBeSUjg/yMCShnSAmOtnFCNZ2\nynpIvJBxEvj9Q0dyogJiDX6MjeaCLpGEn8OHPdgTtl0HXmL55ybqq2zy3UMA0f5q\nSYYSyYriIPy8Eg3Lnx4yN2Jq8qgDUqnkevWv4vpjnZ9WeWHqmRyqNcaokhbcXkCS\npt5vQbpI0wKBgFtKe8MEuXVReszfaeJU+m8aEs33eB5RQ2HIZbb4hv4RK11ZPVKH\n8fiLwQRyVMX7oac16eH90kZuLpeHVhlAdr9IhSGghaw684AkSKxL21vozGQggrv2\nVpr9R5u46jBcgt03TcWGqgoI1Pk/VMuyfNCkpYLvn+9Q/2+fNO5QKNpBAoGACwg8\nANDgjSYl4LXbqwuDZDf1Rf3/Ubn3S1qldf2Sw+NNAgKJUb7McFQGm71WqRaCGhvq\noPVh8Kb/UA/Al//iSsf+fqXzwgFErVxvS0xWFi/PAUe3YuZo8arVRxfoz6fNtrvs\nKQakP8dRyTYoZ6QBy1qf7oJzFvhlCttuuU8hDsMCgYEA2DBQ0+pF0Zql3CceHo1R\nxLnCjZvbsJBPteQclIft6RY34ahECYnmvmbOq6YtZ4C+uz+A3vH38jGK9LL7iAea\nnhW+iMYM8g9HlRF1GzsXTRIKbW4LgMPta4yS26UUamOF+PR8yPKZ+7kCXrTBALM1\nKP+6tITTcrq7ZCdgTmhX4ZI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "phenikaax@nomadic-device-331201.iam.gserviceaccount.com",
+  "client_id": "100183120498216507038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/phenikaax%40nomadic-device-331201.iam.gserviceaccount.com"
+}
